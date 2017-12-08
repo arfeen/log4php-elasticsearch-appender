@@ -2,7 +2,7 @@
 
 This class can append log messages to ElasticSearch using Log4PHP. 
 
-This class was initially published  at [PHP Classes](hhttps://www.phpclasses.org/package/9088-PHP-Append-log-messages-to-ElasticSearch-using-Log4PHP.html).
+This class was initially published  at [PHP Classes](https://www.phpclasses.org/package/9088-PHP-Append-log-messages-to-ElasticSearch-using-Log4PHP.html).
 
 
 This class can append log messages to ElasticSearch using Log4PHP.
